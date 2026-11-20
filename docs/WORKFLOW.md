@@ -22,6 +22,10 @@ To establish shared design documentation:
 
 > Use mo-ui to create or update a concise `DESIGN.md` from **[screens, components, tokens, or approved reference]**, adapting the skill's bundled design template. Describe the audience, primary task, visual intent, layout, copy, and interaction states. Link existing components and tokens as sources of truth. Preserve settled decisions and flag consequential conflicts. Do not redesign the UI or install tooling.
 
+For a standalone HTML artifact:
+
+> Use mo-html to build one self-contained HTML file for **[report, explainer, deck, diagram, or tool]** about **[subject]** for **[audience]**. Follow **[project design language or visual direction, if any]**. Write it to **[path]**, check wide and narrow viewports when browser tooling is available, and return the absolute path.
+
 ## 3. Use Agent Browser for website tasks
 
 > Use mo-browser with the installed `agent-browser` CLI to open **[URL]**, perform **[browser task]**, and verify **[observable result]**. Stay within the requested site and authorized actions. Report observations and capture a screenshot when useful.

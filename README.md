@@ -8,6 +8,7 @@ The agentic workflows I reuse, packaged as skills. Each folder under `skills/` c
 | --- | --- | --- |
 | [mo-implement](skills/mo-implement/SKILL.md) | "Use mo-implement" | Takes a requested change through implementation and verification. |
 | [mo-ui](skills/mo-ui/SKILL.md) | "Use mo-ui" | Builds or improves UI using the project's design conventions. |
+| [mo-html](skills/mo-html/SKILL.md) | "Use mo-html" | Builds one self-contained HTML file for a report, explainer, deck, diagram, or small tool. Adapted from [effective-html](https://github.com/plannotator/effective-html). |
 | [mo-browser](skills/mo-browser/SKILL.md) | "Use mo-browser" | Automates a website with the installed Agent Browser CLI. |
 | [mo-debug](skills/mo-debug/SKILL.md) | "Use mo-debug" | Proves the cause, applies the smallest fix, and checks it. |
 | [mo-verify](skills/mo-verify/SKILL.md) | "Use mo-verify" | Checks existing work and handles authorized independent review. |
